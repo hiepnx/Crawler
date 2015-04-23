@@ -1,0 +1,26 @@
+D:\Visual Studio 2012\Projects\Crawler\Crawler.ConsoleProg\bin\Debug\Crawler.ConsoleProg.exe.config
+D:\Visual Studio 2012\Projects\Crawler\Crawler.ConsoleProg\bin\Debug\Crawler.ConsoleProg.exe
+D:\Visual Studio 2012\Projects\Crawler\Crawler.ConsoleProg\bin\Debug\Crawler.ConsoleProg.pdb
+D:\Visual Studio 2012\Projects\Crawler\Crawler.ConsoleProg\bin\Debug\Crawler.dll
+D:\Visual Studio 2012\Projects\Crawler\Crawler.ConsoleProg\bin\Debug\WebPageProcessor.dll
+D:\Visual Studio 2012\Projects\Crawler\Crawler.ConsoleProg\bin\Debug\HtmlAgilityPack.dll
+D:\Visual Studio 2012\Projects\Crawler\Crawler.ConsoleProg\bin\Debug\Crawler.pdb
+D:\Visual Studio 2012\Projects\Crawler\Crawler.ConsoleProg\bin\Debug\WebPageProcessor.pdb
+D:\Visual Studio 2012\Projects\Crawler\Crawler.ConsoleProg\bin\Debug\HtmlAgilityPack.pdb
+D:\Visual Studio 2012\Projects\Crawler\Crawler.ConsoleProg\bin\Debug\HtmlAgilityPack.xml
+D:\Visual Studio 2012\Projects\Crawler\Crawler.ConsoleProg\obj\Debug\Crawler.ConsoleProg.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2012\Projects\Crawler\Crawler.ConsoleProg\obj\Debug\Crawler.ConsoleProg.exe
+D:\Visual Studio 2012\Projects\Crawler\Crawler.ConsoleProg\obj\Debug\Crawler.ConsoleProg.pdb
+D:\Visual Studio 2012\Projects\Crawler\Crawler.ConsoleProg\bin\Debug\BusinessClasses.dll
+D:\Visual Studio 2012\Projects\Crawler\Crawler.ConsoleProg\bin\Debug\BusinessClasses.pdb
+D:\Visual Studio 2012\Projects\Crawler\Crawler.ConsoleProg\bin\Debug\EntityFramework.dll
+D:\Visual Studio 2012\Projects\Crawler\Crawler.ConsoleProg\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio 2012\Projects\Crawler\Crawler.ConsoleProg\bin\Debug\EntityFramework.xml
+D:\Visual Studio 2012\Projects\Crawler\Crawler.ConsoleProg\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual Studio 2012\Projects\Crawler\Crawler.ConsoleProg\bin\Debug\HDBusinessLayer.dll
+D:\Visual Studio 2012\Projects\Crawler\Crawler.ConsoleProg\bin\Debug\HDBusinessLayer.pdb
+D:\Visual Studio 2012\Projects\Crawler\Crawler.ConsoleProg\bin\Debug\SuperQueue.dll
+D:\Visual Studio 2012\Projects\Crawler\Crawler.ConsoleProg\bin\Debug\SuperQueue.pdb
+D:\GitHub\Crawler\Crawler.ConsoleProg\bin\Debug\Crawler.ConsoleProg.exe.config
+D:\GitHub\Crawler\Crawler.ConsoleProg\obj\Debug\Crawler.ConsoleProg.exe
+D:\GitHub\Crawler\Crawler.ConsoleProg\obj\Debug\Crawler.ConsoleProg.pdb

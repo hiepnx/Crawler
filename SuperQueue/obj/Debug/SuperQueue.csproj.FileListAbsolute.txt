@@ -1,0 +1,10 @@
+D:\Visual Studio 2012\Projects\Crawler\SuperQueue\bin\Debug\SuperQueue.dll
+D:\Visual Studio 2012\Projects\Crawler\SuperQueue\bin\Debug\SuperQueue.pdb
+D:\Visual Studio 2012\Projects\Crawler\SuperQueue\obj\Debug\SuperQueue.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2012\Projects\Crawler\SuperQueue\obj\Debug\SuperQueue.dll
+D:\Visual Studio 2012\Projects\Crawler\SuperQueue\obj\Debug\SuperQueue.pdb
+D:\Visual Studio 2012\Projects\Crawler\SuperQueue\bin\Debug\SuperQueue.dll.config
+D:\Visual Studio 2012\Projects\Crawler\SuperQueue\bin\Debug\EntityFramework.dll
+D:\Visual Studio 2012\Projects\Crawler\SuperQueue\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio 2012\Projects\Crawler\SuperQueue\bin\Debug\EntityFramework.xml
+D:\Visual Studio 2012\Projects\Crawler\SuperQueue\bin\Debug\EntityFramework.SqlServer.xml

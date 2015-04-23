@@ -1,0 +1,15 @@
+D:\Visual Studio 2012\Projects\Crawler\WebPageProcessor\obj\Debug\WebPageProcessor.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2012\Projects\Crawler\WebPageProcessor\bin\Debug\WebPageProcessor.dll
+D:\Visual Studio 2012\Projects\Crawler\WebPageProcessor\bin\Debug\WebPageProcessor.pdb
+D:\Visual Studio 2012\Projects\Crawler\WebPageProcessor\bin\Debug\HtmlAgilityPack.dll
+D:\Visual Studio 2012\Projects\Crawler\WebPageProcessor\bin\Debug\HtmlAgilityPack.pdb
+D:\Visual Studio 2012\Projects\Crawler\WebPageProcessor\bin\Debug\HtmlAgilityPack.xml
+D:\Visual Studio 2012\Projects\Crawler\WebPageProcessor\obj\Debug\WebPageProcessor.dll
+D:\Visual Studio 2012\Projects\Crawler\WebPageProcessor\obj\Debug\WebPageProcessor.pdb
+D:\Visual Studio 2012\Projects\Crawler\WebPageProcessor\bin\Debug\BusinessClasses.dll
+D:\Visual Studio 2012\Projects\Crawler\WebPageProcessor\bin\Debug\BusinessClasses.pdb
+D:\Visual Studio 2012\Projects\Crawler\WebPageProcessor\bin\Debug\WebPageProcessor.dll.config
+D:\Visual Studio 2012\Projects\Crawler\WebPageProcessor\bin\Debug\EntityFramework.dll
+D:\Visual Studio 2012\Projects\Crawler\WebPageProcessor\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio 2012\Projects\Crawler\WebPageProcessor\bin\Debug\EntityFramework.xml
+D:\Visual Studio 2012\Projects\Crawler\WebPageProcessor\bin\Debug\EntityFramework.SqlServer.xml

@@ -1,0 +1,12 @@
+D:\Visual Studio 2012\Projects\Crawler\HDBusinessLayer\obj\Debug\HDBusinessLayer.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2012\Projects\Crawler\HDBusinessLayer\bin\Debug\HDBusinessLayer.dll
+D:\Visual Studio 2012\Projects\Crawler\HDBusinessLayer\bin\Debug\HDBusinessLayer.pdb
+D:\Visual Studio 2012\Projects\Crawler\HDBusinessLayer\bin\Debug\BusinessClasses.dll
+D:\Visual Studio 2012\Projects\Crawler\HDBusinessLayer\bin\Debug\EntityFramework.dll
+D:\Visual Studio 2012\Projects\Crawler\HDBusinessLayer\bin\Debug\BusinessClasses.pdb
+D:\Visual Studio 2012\Projects\Crawler\HDBusinessLayer\bin\Debug\EntityFramework.xml
+D:\Visual Studio 2012\Projects\Crawler\HDBusinessLayer\obj\Debug\HDBusinessLayer.dll
+D:\Visual Studio 2012\Projects\Crawler\HDBusinessLayer\obj\Debug\HDBusinessLayer.pdb
+D:\Visual Studio 2012\Projects\Crawler\HDBusinessLayer\bin\Debug\HDBusinessLayer.dll.config
+D:\Visual Studio 2012\Projects\Crawler\HDBusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio 2012\Projects\Crawler\HDBusinessLayer\bin\Debug\EntityFramework.SqlServer.xml

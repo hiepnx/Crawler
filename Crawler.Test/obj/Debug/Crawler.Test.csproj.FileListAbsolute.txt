@@ -1,0 +1,17 @@
+D:\Visual Studio 2012\Projects\Crawler\Crawler.Test\bin\Debug\Crawler.Test.dll
+D:\Visual Studio 2012\Projects\Crawler\Crawler.Test\bin\Debug\Crawler.Test.pdb
+D:\Visual Studio 2012\Projects\Crawler\Crawler.Test\obj\Debug\Crawler.Test.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2012\Projects\Crawler\Crawler.Test\obj\Debug\Crawler.Test.dll
+D:\Visual Studio 2012\Projects\Crawler\Crawler.Test\obj\Debug\Crawler.Test.pdb
+D:\Visual Studio 2012\Projects\Crawler\Crawler.Test\bin\Debug\WebPageProcessor.dll
+D:\Visual Studio 2012\Projects\Crawler\Crawler.Test\bin\Debug\HtmlAgilityPack.dll
+D:\Visual Studio 2012\Projects\Crawler\Crawler.Test\bin\Debug\WebPageProcessor.pdb
+D:\Visual Studio 2012\Projects\Crawler\Crawler.Test\bin\Debug\HtmlAgilityPack.pdb
+D:\Visual Studio 2012\Projects\Crawler\Crawler.Test\bin\Debug\HtmlAgilityPack.xml
+D:\Visual Studio 2012\Projects\Crawler\Crawler.Test\bin\Debug\BusinessClasses.dll
+D:\Visual Studio 2012\Projects\Crawler\Crawler.Test\bin\Debug\BusinessClasses.pdb
+D:\Visual Studio 2012\Projects\Crawler\Crawler.Test\bin\Debug\Crawler.Test.dll.config
+D:\Visual Studio 2012\Projects\Crawler\Crawler.Test\bin\Debug\EntityFramework.dll
+D:\Visual Studio 2012\Projects\Crawler\Crawler.Test\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio 2012\Projects\Crawler\Crawler.Test\bin\Debug\EntityFramework.xml
+D:\Visual Studio 2012\Projects\Crawler\Crawler.Test\bin\Debug\EntityFramework.SqlServer.xml

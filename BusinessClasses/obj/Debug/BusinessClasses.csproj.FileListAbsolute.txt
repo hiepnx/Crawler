@@ -1,0 +1,10 @@
+D:\Visual Studio 2012\Projects\Crawler\BusinessClasses\bin\Debug\BusinessClasses.dll
+D:\Visual Studio 2012\Projects\Crawler\BusinessClasses\bin\Debug\BusinessClasses.pdb
+D:\Visual Studio 2012\Projects\Crawler\BusinessClasses\obj\Debug\BusinessClasses.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2012\Projects\Crawler\BusinessClasses\obj\Debug\BusinessClasses.dll
+D:\Visual Studio 2012\Projects\Crawler\BusinessClasses\obj\Debug\BusinessClasses.pdb
+D:\Visual Studio 2012\Projects\Crawler\BusinessClasses\bin\Debug\BusinessClasses.dll.config
+D:\Visual Studio 2012\Projects\Crawler\BusinessClasses\bin\Debug\EntityFramework.dll
+D:\Visual Studio 2012\Projects\Crawler\BusinessClasses\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio 2012\Projects\Crawler\BusinessClasses\bin\Debug\EntityFramework.xml
+D:\Visual Studio 2012\Projects\Crawler\BusinessClasses\bin\Debug\EntityFramework.SqlServer.xml
